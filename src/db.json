@@ -1,0 +1,45 @@
+ [
+
+  {
+    "id":"0",
+     "value": "select_the_schema",
+     "label": "Select The Schema"
+   },
+    
+   {
+    "id":"1",
+     "value": "first_name",
+     "label": "First Name"
+   },
+   {
+    "id":"2",
+     "value": "last_name",
+     "label": "Last Name"
+   },
+   {
+    "id":"3",
+     "value": "gender",
+     "label": "Gender"
+   },
+   {
+    "id":"4",
+     "value": "age",
+     "label": "Age"
+   },
+   {
+    "id":"5",
+     "value": "account_name",
+     "label": "Account Name"
+   },
+   {
+    "id":"6",
+     "value": "city",
+     "label": "City"
+   },
+   {
+    "id":"7",
+     "value": "state",
+     "label": "State"
+   }
+  
+ ]
